@@ -1,4 +1,6 @@
-# ULTRAMapping Docs
+# This repository has been archived. For information regarding the creation of custom levels, please go to https://ultrakillcustoms.miraheze.org/
+
+## ULTRAMapping Docs
 
 This is a unofficial documentation for Rude Level Editor which aims to explain the process of level creation in a simple way(or at least tries to).
 
